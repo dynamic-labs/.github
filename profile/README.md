@@ -1,6 +1,9 @@
 <!-- Banner Image -->
 
-<img width="1500" alt="dynamic-banner" src="https://cdn.prod.website-files.com/626692727bba3f384e008e8a/66e1b9e7144147903a39ab97_logo-dark.png" />
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/dd229a18-03c9-4813-8469-e8d6625149d7">
+ <img alt="Dynamic Labs" src="https://github.com/user-attachments/assets/633d1bff-7410-4f2c-a159-760e6857558e">
+</picture>
 
 # Dynamic Labs
 
