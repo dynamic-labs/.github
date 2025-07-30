@@ -18,6 +18,7 @@ Dynamic provides streamlined development with native SDKs for popular platforms.
 | <img src="https://skillicons.dev/icons?i=react" width="20" height="20" />   | React        | [Documentation](https://docs.dynamic.xyz/react-sdk)                 |
 | <img src="https://skillicons.dev/icons?i=react" width="20" height="20" />   | React Native | [Documentation](https://docs.dynamic.xyz/react-native/introduction) |
 | <img src="https://skillicons.dev/icons?i=flutter" width="20" height="20" /> | Flutter      | [Documentation](https://docs.dynamic.xyz/flutter/client)            |
+| <img src="https://skillicons.dev/icons?i=swift" width="20" height="20" /> | Swift      | [Documentation](https://www.dynamic.xyz/docs/swift/quickstart)            |
 
 ## Supported Chains
 
