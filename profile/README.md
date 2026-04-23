@@ -13,12 +13,16 @@
 
 Dynamic provides streamlined development with native SDKs for popular platforms.
 
-| Platform                                                                    | SDK          | Documentation                                                       |
-| --------------------------------------------------------------------------- | ------------ | ------------------------------------------------------------------- |
-| <img src="https://skillicons.dev/icons?i=react" width="20" height="20" />   | React        | [Documentation](https://docs.dynamic.xyz/react-sdk)                 |
-| <img src="https://skillicons.dev/icons?i=react" width="20" height="20" />   | React Native | [Documentation](https://docs.dynamic.xyz/react-native/introduction) |
-| <img src="https://skillicons.dev/icons?i=flutter" width="20" height="20" /> | Flutter      | [Documentation](https://docs.dynamic.xyz/flutter/client)            |
-| <img src="https://skillicons.dev/icons?i=swift" width="20" height="20" /> | Swift      | [Documentation](https://www.dynamic.xyz/docs/swift/quickstart)            |
+| Platform                                                                       | SDK          | Documentation                                                       |
+| ------------------------------------------------------------------------------ | ------------ | ------------------------------------------------------------------- |
+| <img src="https://skillicons.dev/icons?i=react" width="20" height="20" />      | React        | [Documentation](https://docs.dynamic.xyz/react-sdk)                 |
+| <img src="https://skillicons.dev/icons?i=react" width="20" height="20" />      | React Native | [Documentation](https://docs.dynamic.xyz/react-native/introduction) |
+| <img src="https://skillicons.dev/icons?i=js" width="20" height="20" />         | JavaScript   | [Documentation](https://docs.dynamic.xyz/javascript/introduction)   |
+| <img src="https://skillicons.dev/icons?i=nodejs" width="20" height="20" />     | Node         | [Documentation](https://docs.dynamic.xyz/node/quickstart)           |
+| <img src="https://skillicons.dev/icons?i=flutter" width="20" height="20" />    | Flutter      | [Documentation](https://docs.dynamic.xyz/flutter/client)            |
+| <img src="https://skillicons.dev/icons?i=swift" width="20" height="20" />      | Swift        | [Documentation](https://docs.dynamic.xyz/swift/quickstart)          |
+| <img src="https://skillicons.dev/icons?i=kotlin" width="20" height="20" />     | Kotlin       | [Documentation](https://docs.dynamic.xyz/kotlin/introduction)       |
+| <img src="https://skillicons.dev/icons?i=unity" width="20" height="20" />      | Unity        | [Documentation](https://docs.dynamic.xyz/unity/introduction)        |
 
 ## Supported Chains
 
@@ -34,6 +38,8 @@ Dynamic's authentication solutions support a wide range of blockchain networks, 
 | ![StarkNet](https://img.shields.io/badge/StarkNet-00A3FF?style=for-the-badge&logoColor=white)               | [![npm](https://img.shields.io/npm/v/@dynamic-labs/starknet?label=%40dynamic-labs%2Fstarknet)](https://www.npmjs.com/package/@dynamic-labs/starknet) |
 | ![Cosmos](https://img.shields.io/badge/Cosmos-1B1E36?style=for-the-badge&logo=cosmos&logoColor=white)       | [![npm](https://img.shields.io/npm/v/@dynamic-labs/cosmos?label=%40dynamic-labs%2Fcosmos)](https://www.npmjs.com/package/@dynamic-labs/cosmos)       |
 | ![Sui](https://img.shields.io/badge/Sui-5A67D8?style=for-the-badge&logo=sui&logoColor=white)                | [![npm](https://img.shields.io/npm/v/@dynamic-labs/sui?label=%40dynamic-labs%2Fsui)](https://www.npmjs.com/package/@dynamic-labs/sui)                |
+| ![Spark](https://img.shields.io/badge/Spark-F7931A?style=for-the-badge&logoColor=white)                    | [![npm](https://img.shields.io/npm/v/@dynamic-labs/spark?label=%40dynamic-labs%2Fspark)](https://www.npmjs.com/package/@dynamic-labs/spark)          |
+| ![Tron](https://img.shields.io/badge/Tron-FF0013?style=for-the-badge&logoColor=white)                      | [![npm](https://img.shields.io/npm/v/@dynamic-labs/tron?label=%40dynamic-labs%2Ftron)](https://www.npmjs.com/package/@dynamic-labs/tron)             |
 
 ### Integrate Your Own Chain
 
